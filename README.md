@@ -16,9 +16,7 @@
 
 - 🤝 I’m looking for help with **Open source contribution**
 
-- 👨‍💻 All of my projects are available at [https://imrajas-samse.github.io/](https://imrajas-samse.github.io/)
-
-- 💬 Ask me about **Javascript, PHP, MySql**
+- 💬 Ask me about **Javascript, PHP, MySql, React**
 
 - 📫 How to reach me **samserajas@gmail.com**
 
