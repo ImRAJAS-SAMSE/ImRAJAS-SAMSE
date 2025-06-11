@@ -1,5 +1,5 @@
 # Hi there, I'm Rajas 👋
-## Google Summer of Code @ Drupal • Open Source Contributor • Ex-Intern @ Govt. of Bangladesh • AI/ML @ Symbiosis International University
+## Google Summer of Code @ Drupal | Open Source Contributor | Ex-Intern @ Govt. of Bangladesh | AI/ML @ Symbiosis International University
 
 <div align="center">
   
@@ -48,6 +48,8 @@
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/MaterialUI-0081CB.svg?style=flat-square&logo=MUI&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
@@ -63,9 +65,7 @@
       <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clerk-003D5E.svg?style=flat-square&logo=clerk"/>
     </td>
   </tr>
 
@@ -80,6 +80,18 @@
       <img src="https://img.shields.io/badge/ChromaDB-FF00FF?style=flat-square"/>
     </td>
   </tr>
+
+  <tr>
+  <td><strong>DevOps </strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
+  </td>
+</tr>
+
 
   <tr>
     <td><strong>AI / ML Libraries</strong></td>
@@ -99,11 +111,23 @@
   </tr>
 </table>
 
+
 ## 🤝 Connect with me!!
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samserajas)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajas-samse-a09b4724a/)  
-[![Twitter (X)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rajas_Samse)
+<p align="center">
+  <a href="https://medium.com/@samserajas">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rajas-samse-a09b4724a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Rajas_Samse">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)"/>
+  </a>
+</p>
+
 
 ---
 
