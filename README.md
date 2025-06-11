@@ -26,7 +26,7 @@
 - 👋 I’m Rajas, a full-stack developer and AI/ML engineer.
 - 🎓 Currently pursuing B.Tech in AI & ML @ Symbiosis International University.
 - 🎯 I love building web tools that enhance everyday life!
-- 🌱 Open-source contributor — bridging design, code, and community impact.
+- 🌱 Open-source contributor, bridging design, code, and community impact.
 
 ## ✅ Languages and Frameworks
 
@@ -133,4 +133,5 @@
 
 ## 💻 Currently Running On
 
-Minimal sleep, maximum tabs, and a dream that won't shut up.
+Running on coffee, Wi-Fi, and the eternal hope that my code works on the first try.
+
